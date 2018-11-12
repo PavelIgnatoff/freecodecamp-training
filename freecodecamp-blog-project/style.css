@@ -81,47 +81,47 @@ nav > ul > li {
 
 .contact-form {
     padding-top: 100px;
-  }
-  
-  /* Add CSS for <input> and <textarea> tags */
-  input , textarea {
-   width: 400px;
-  margin-top: 10px;
-  margin-bottom:30px;
-  padding: 20px;
-   font-size: 18px;
-   border: 1px solid #dee7ec;
-   resize: none;
-  }
-  
-  /* Add CSS for contact-submit */
-  .contact-submit {
+}
+
+/* Add CSS for <input> and <textarea> tags */
+input , textarea {
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom:30px;
+    padding: 20px;
+    font-size: 18px;
+    border: 1px solid #dee7ec;
+    resize: none;
+}
+
+/* Add CSS for contact-submit */
+.contact-submit {
     background-color:#c7cfd4;
     color: #000;
     transition: .3s all ease-in-out;
-  }
+}
 
-  .contact-submit:hover {
+.contact-submit:hover {
     background-color:#dee7ec;
     transition: .3s all ease-in-out;
-  }
-  
-  .footer {
+}
+
+.footer {
     background-color: #2f5167;
     color: #fff;
     height: 120px;
     padding: 40px;
-  }
-  
-  .footer-logo {
+}
+
+.footer-logo {
     float: left;
     font-size: 32px;
-  }
-  
-  .footer-list {
+}
+
+.footer-list {
     float: right;
-  }
-  
-  .footer-list li {
+}
+
+.footer-list li {
     padding-bottom: 20px;
-  }
+}
